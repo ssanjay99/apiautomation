@@ -1,0 +1,18 @@
+{
+  "name": "flobiz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2",
+    "mochawesome": "^4.1.0",
+    "request": "^2.88.0",
+    "should": "^13.2.3"
+  }
+}
